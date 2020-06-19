@@ -1,0 +1,11 @@
+def main():
+    print('Seja Bem-Vindo')
+    print('Como Funciona?')
+    print('Se você jogar sozinho o PC escolhera uma palavra aleatoria da categoria selecionada!')
+    print('Você poderá digitar uma letra por vez, se acertar a letra preenchera seu devido lugar')
+    print('Caso erre a letra, uma parte do corpo sera adicionada, quando todo corpo aparecer, Você Perde!')
+    print('Caso jogo contra alguem a palavra sera adicionada no começo do jogo pelo jogador.')
+    print('Entao Queime seus neuronios e ganhe esse game!')
+    print('')
+    print("Escolha a opção para jogar!")
+    print("[1] Jogar sozinho\n" "[2] Jogar com alguém")
